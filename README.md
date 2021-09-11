@@ -1,0 +1,1 @@
+# scaffolding-i18n-static-site-nextjs
